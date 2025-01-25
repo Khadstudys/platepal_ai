@@ -397,6 +397,7 @@
           Developed by</p>
           <p class="u-small-text u-text u-text-variant u-text-1">Amtul Rahman Sadiya, 160623740003</p>
           <p class="u-small-text u-text u-text-variant u-text-1">Khadija Fatima, 160623740026</p>
+          <p class="u-small-text u-text u-text-variant u-text-1">Uzma Fatima, 160623740058</p>
       </div></footer>
       
     

@@ -53,9 +53,11 @@
                     <h3>Email <div class="underline"><span></span></div></h3>
                     <p class="email-id">amtulrahmansadiya@gmail.com</p>
                     <p class="email-id">khadijafatimacme@gmail.com</p>
+                    <p class="email-id">160623740058@stanley.edu.in@gmail.com</p>
                     <h3>Roll Number</h3>
                     <p> 160623740003</p>
                     <p>160623740026</p>
+                    <p>160623740058</p>
                 </div>
                 <div class="col">
                     <h3>Links <div class="underline"><span></span></h3>
@@ -68,6 +70,7 @@
                     <h3>Developed By <div class="underline"><span></span></h3>
                     <p>Khadija Fatima</p>
                     <p>Amtul Rahman Sadiya</p>
+                    <p>Uzma Fatima</p>
                 </div>
 
             </div>
